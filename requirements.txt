@@ -1,0 +1,6 @@
+fastapi~=0.101.0
+sqlalchemy~=2.0.19
+pydantic~=2.1.1
+selenium~=4.11.2
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
